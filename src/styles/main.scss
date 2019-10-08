@@ -1,5 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background-color: blue;
+  background-color: orange;
+  .btn{
+    background-color: azure;
+    color: orange;
+  }
 }
